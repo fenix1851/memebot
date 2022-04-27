@@ -1,0 +1,25 @@
+{
+  "name": "memebot",
+  "version": "1.0.0",
+  "description": "memebot",
+  "main": "index.js",
+  "scripts": {
+    "test": "nod src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fenix1851/memebot.git"
+  },
+  "keywords": [
+    "telegraf",
+    "bot",
+    "memes",
+    "meme"
+  ],
+  "author": "fenix1851",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fenix1851/memebot/issues"
+  },
+  "homepage": "https://github.com/fenix1851/memebot#readme"
+}
